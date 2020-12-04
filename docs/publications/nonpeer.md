@@ -17,3 +17,7 @@ Adrian Viehweger, Martin Hölzer, **Christian Brandt**
 [**SARS-CoV-2 causes severe alveolar inflammation and barrier dysfunction**](https://www.biorxiv.org/content/10.1101/2020.08.31.276725v1.abstract)  
 Stefanie Deinhardt-Emmer, Sarah Böttcher, Clio Häring, Liane Giebeler, Andreas Henke, Roland Zell, Franziska Hornung, **Christian Brandt**, **Mike Marquet**, Alexander S. Mosig, Mathias W. Pletz, Michael Schacke, Jürgen Rödel, Regine Heller, Sandor Nietzsche, Bettina Löffler, Christina Ehrhardt  
 *bioRxiv*
+
+[**DarkQ: Continuous genomic monitoring using message queues**](https://www.biorxiv.org/content/10.1101/2020.11.12.379560v2)
+Adrian Viehweger, **Christian Brandt**, Martin Hölzer
+*bioRxiv*
