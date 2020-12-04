@@ -19,5 +19,5 @@ Stefanie Deinhardt-Emmer, Sarah Böttcher, Clio Häring, Liane Giebeler, Andreas
 *bioRxiv*
 
 [**DarkQ: Continuous genomic monitoring using message queues**](https://www.biorxiv.org/content/10.1101/2020.11.12.379560v2)  
-Adrian Viehweger, **Christian Brandt**, Martin Hölzer
+Adrian Viehweger, **Christian Brandt**, Martin Hölzer  
 *bioRxiv*
