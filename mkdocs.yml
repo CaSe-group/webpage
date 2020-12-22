@@ -66,6 +66,7 @@ nav:
         - Workflows: tools/workflows.md
         - Tools: tools/tools.md
         - Other: tools/other.md
+- SARS-CoV-2: SARS-CoV-2/SARS-CoV-2.md
 - Tutorials: 
         - shell: tutorials/shell.md
         - python:
