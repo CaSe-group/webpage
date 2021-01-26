@@ -1,3 +1,7 @@
+[**Molecular epidemiology of SARS-CoV-2 - a regional to global perspective**](https://www.medrxiv.org/content/10.1101/2021.01.25.21250447)  
+**Christian Brandt**, **Riccardo Spott**, Martin Hoelzer, Denis Kuehnert, Stephan Fuchs, **Mara Lohde**, **Mike Marquet**, Adrian Viehweger, Dagmar Rimek, Mathias Pletz  
+*medRxiv*
+
 [**Increased PCR screening capacity using a multi-replicate pooling scheme**](https://www.medrxiv.org/content/10.1101/2020.04.16.20067603v2)   
 A Viehweger, F Kühnl, **C Brandt**, B König  
 *medRxiv*
