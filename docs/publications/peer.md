@@ -51,10 +51,14 @@ S Neubauer, S Madzgalla, M Marquet, A Klabunde, B Büttner, A Göhring, ...
 Franziska Hufsky, Kevin Lamkiewicz, Alexandre Almeida, Abdel Aouacheria, Cecilia Arighi, Alex Bateman, Jan Baumbach, Niko Beerenwinkel, **Christian Brandt**, Marco Cacciabue, Sara Chuguransky, Oliver Drechsel, Robert D Finn, Adrian Fritz, Stephan Fuchs, Georges Hattab, Anne-Christin Hauschild, Dominik Heider, Marie Hoffmann, Martin Hölzer, Stefan Hoops, Lars Kaderali, Ioanna Kalvari, Max von Kleist, Renó Kmiecinski, Denise Kühnert, Gorka Lasso, Pieter Libin, Markus List, Hannah F Löchel, Maria J Martin, Roman Martin, Julian Matschinske, Alice C McHardy, Pedro Mendes, Jaina Mistry, Vincent Navratil, Eric P Nawrocki, Áine Niamh O’Toole, Nancy Ontiveros-Palacios, Anton I Petrov, Guillermo Rangel-Pineros, Nicole Redaschi, Susanne Reimering, Knut Reinert, Alejandro Reyes, Lorna Richardson, David L Robertson, Sepideh Sadegh, Joshua B Singer, Kristof Theys, Chris Upton, Marius Welzel, Lowri Williams, Manja Marz
 *Briefings in Bioinformatics, bbaa232, https://doi.org/10.1093/bib/bbaa232*
 
+[**Severe clinical relapse in an immunocompromised host with persistent SARS-CoV-2 infection**](https://www.nature.com/articles/s41375-021-01175-8)  
+Philipp A. Reuken, Andreas Stallmach, Mathias W. Pletz, **Christian Brandt**, Nico Andreas, Sabine Hahnfeld, Bettina Löffler, Sabine Baumgart, Thomas Kamradt, Michael Bauer   
+Leukemia (2021), https://doi.org/10.1038/s41375-021-01175-8
+
 ## Other
 
 [**Whole genome sequencing of 39 invasive Streptococcus pneumoniae sequence type 199 isolates revealed switches from serotype 19A to 15B**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169370)  
-Oliwia Makarewicz, Marie Lucas, **Christian Brandt**, Leonie Herrmann, Andreas Albersmeier, Christian Rückert, Jochen Blom, Alexander Goesmann, Mark van der Linden, Jörn Kalinowski, Mathias W Pletz  
+Oliwia Makarewicz, Marie Lucas, **Christian Brandt**, Leonie Herrmann, Andreas Albersmeier, Christian Rückert, Jochen Blom, Alexander Goesmann, Mark van der Linden, Jörn Kalinowski, Mathias W Pletz   
 *PLoS One 12 (1), e0169370*
 
 [**Use of MALDI-TOF mass spectrometry to detect nosocomial outbreaks of Serratia marcescens and Citrobacter freundii**](https://link.springer.com/article/10.1007/s10096-018-03462-2)  
