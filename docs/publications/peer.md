@@ -45,6 +45,10 @@ S Neubauer, S Madzgalla, M Marquet, A Klabunde, B Büttner, A Göhring, ...
 **Christian Brandt**, Erik Bongcam-Rudloff, Bettina Müller  
 *Appl. Sci. 2020, 10(21), 7518; https://doi.org/10.3390/app10217518*
 
+[**Metagenomics workflow for hybrid assembly, differential coverage binning, transcriptomics and pathway analysis (MUFFIN)**](https://pubmed.ncbi.nlm.nih.gov/33561126/)  
+Renaud Van Damme, Martin Hölzer, Adrian Viehweger, Bettina Müller, Erik Bongcam-Rudloff, **Christian Brandt**  
+*PLoS Comput Biol. 2021 Feb 9;17(2):e1008716.doi: 10.1371/journal.pcbi.1008716. eCollection 2021 Feb.*
+
 ## SARS_CoV-2
 
 [**Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research**](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa232/5955939)  
@@ -54,6 +58,10 @@ Franziska Hufsky, Kevin Lamkiewicz, Alexandre Almeida, Abdel Aouacheria, Cecilia
 [**Severe clinical relapse in an immunocompromised host with persistent SARS-CoV-2 infection**](https://www.nature.com/articles/s41375-021-01175-8)  
 Philipp A. Reuken, Andreas Stallmach, Mathias W. Pletz, **Christian Brandt**, Nico Andreas, Sabine Hahnfeld, Bettina Löffler, Sabine Baumgart, Thomas Kamradt, Michael Bauer   
 Leukemia (2021), https://doi.org/10.1038/s41375-021-01175-8
+
+[**SARS-CoV-2 causes severe alveolar inflammation and barrier dysfunction**](https://pubmed.ncbi.nlm.nih.gov/33637603/)  
+Stefanie Deinhardt-Emmer, Sarah Böttcher, Clio Häring, Liane Giebeler, Andreas Henke, Roland Zell, Franziska Hornung, **Christian Brandt**, **Mike Marquet**, Alexander S. Mosig, Mathias W. Pletz, Michael Schacke, Jürgen Rödel, Regine Heller, Sandor Nietzsche, Bettina Löffler, Christina Ehrhardt  
+*J Virol. 2021 Feb 26;JVI.00110-21.doi: 10.1128/JVI.00110-21.*
 
 ## Other
 
