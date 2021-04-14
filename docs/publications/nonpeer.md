@@ -17,3 +17,7 @@ Adrian Viehweger, Martin Hölzer, **Christian Brandt**
 [**DarkQ: Continuous genomic monitoring using message queues**](https://www.biorxiv.org/content/10.1101/2020.11.12.379560v2)  
 Adrian Viehweger, **Christian Brandt**, Martin Hölzer  
 *bioRxiv*
+
+[**Chromosome-level genome assembly and transcriptome-based annotation of the oleaginous yeast Rhodotorula toruloides CBS 14**](https://www.biorxiv.org/content/10.1101/2021.04.09.439123v1.abstract)  
+Giselle C. Martín-Hernández, Bettina Müller, Mikołaj Chmielarz, **Christian Brandt**, Martin Hölzer, Adrian Viehweger, Volkmar Passoth  
+*bioRxiv*
