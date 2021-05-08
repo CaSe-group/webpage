@@ -1,3 +1,8 @@
+[**poreCov - an easy to use, fast, and robust workflow for SARS-CoV-2 genome reconstruction via nanopore sequencing**](https://www.biorxiv.org/content/10.1101/2021.05.07.443089v1)  
+**Christian Brandt**, Sebastian Krautwurst, **Riccardo Spott**, **Mara Lohde**, **Mateusz Jundzill**, **Mike Marquet**, Martin Hölzer  
+*bioRxiv*
+
+
 [**Molecular epidemiology of SARS-CoV-2 - a regional to global perspective**](https://www.medrxiv.org/content/10.1101/2021.01.25.21250447)  
 **Christian Brandt**, **Riccardo Spott**, Martin Hoelzer, Denis Kuehnert, Stephan Fuchs, **Mara Lohde**, **Mike Marquet**, Adrian Viehweger, Dagmar Rimek, Mathias Pletz  
 *medRxiv*
