@@ -14,7 +14,7 @@ _____
 
 The workflow is written by using Nextflow, a workflow orchestration software, to achieve high reproducibility and fast and straightforward use. This workflow also produces the taxonomic classification and KEGG pathways of the bins and can be further used by providing RNA-Seq data (optionally) for quantification and annotation.
 
-[:octicons-book-16: Citation](https://www.biorxiv.org/content/10.1101/2020.02.08.939843v1) 
+[:octicons-book-16: Citation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008716) 
 [:octicons-mark-github-16: github](https://github.com/RVanDamme/MUFFIN)
 _____
 ## poreCov
