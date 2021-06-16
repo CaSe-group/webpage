@@ -26,3 +26,7 @@ Adrian Viehweger, **Christian Brandt**, Martin Hölzer
 [**Chromosome-level genome assembly and transcriptome-based annotation of the oleaginous yeast Rhodotorula toruloides CBS 14**](https://www.biorxiv.org/content/10.1101/2021.04.09.439123v1.abstract)  
 Giselle C. Martín-Hernández, Bettina Müller, Mikołaj Chmielarz, **Christian Brandt**, Martin Hölzer, Adrian Viehweger, Volkmar Passoth  
 *bioRxiv*
+
+[**Context-aware genomic surveillance reveals hidden transmission of a carbapenemase-producing Klebsiella pneumoniae**](https://www.biorxiv.org/content/10.1101/2021.06.07.447408v1.abstract)  
+Adrian Viehweger, Christian Blumenscheit, Norman Lippmann, Kelly L Wyres, **Christian Brandt**, Jörg B Hans, Martin Hölzer, Luiz Irber, Sören Gatermann, Christoph Lübbert, Mathias Pletz, Kathryn E Holt, Brigitte König  
+*bioRxiv*
