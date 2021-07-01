@@ -28,6 +28,10 @@ copyright: ©2020 Christian Brandt
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - docs/publications/render.js
+  - docs/publications/parse-bibtex.js
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -59,10 +63,8 @@ nav:
         - Ricc Spott - phD student: team/ricc.md
         - Mara Lohde - phD student: team/mara.md
 
-- Publications: 
-        - Peer reviewed: publications/peer.md
-        - Preprints: publications/nonpeer.md
-- Programs: 
+- Publications: publications/peer.md
+- Programs:  
         - Workflows: tools/workflows.md
         - Tools: tools/tools.md
         - Other: tools/other.md

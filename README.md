@@ -6,6 +6,29 @@ webpage
 * simply go to the coresponding `.md` file edit it and commit
 * done
 
+## Adding publications to the profile
+
+* get a bibtex file - see below (from google scholar)
+* manually add the `doi` field (without the `https://doi.org/`) 
+* manually add a `PMID` if its available (will create a pubmed link)
+* got to `docs/publications/data/publications.bib` and copy this bib text into the doc
+
+```
+@article{reuken2021severe,
+  title={Severe clinical relapse in an immunocompromised host with persistent SARS-CoV-2 infection},
+  author={Reuken, Philipp A and Stallmach, Andreas and Pletz, Mathias W and Brandt, Christian and Andreas, Nico and Hahnfeld, Sabine and Löffler, Bettina and Baumgart, Sabine and Kamradt, Thomas and Bauer, Michael},
+  journal={Leukemia},
+  volume={35},
+  number={3},
+  pages={920--923},
+  year={2021},
+  publisher={Nature Publishing Group},
+  doi={10.1038/s41375-021-01175-8},
+  PMID={33608636},
+  PMCID={PMC7893131}
+}
+```
+
 ## Adding a page or changing structure
 
 mkdocs needs a `.md` file in `docs/` and the correct "link" in `mkdocs.yml`
