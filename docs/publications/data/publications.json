@@ -2,6 +2,6 @@
     "Publications": {
         "subtext": " ~250 total citations, h-index 8 (per Google Scholar)",
         "highlight": "Brandt",
-        "bibtex": "data/publications.bib"
+        "bibtex": "https://raw.githubusercontent.com/CaSe-group/case-group.github.io/main/docs/publications/data/publications.bib"
     }
 }
