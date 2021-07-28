@@ -28,10 +28,6 @@ copyright: ©2020 Christian Brandt
 extra_css:
   - stylesheets/extra.css
 
-extra_javascript:
-  - docs/publications/render.js
-  - docs/publications/parse-bibtex.js
-
 extra:
   social:
     - icon: fontawesome/brands/github
