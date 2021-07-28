@@ -3,9 +3,9 @@
 * [live overview available here](https://charts.mongodb.com/charts-routine-sequencing-sars-c-amykg/public/dashboards/e9453286-1dce-4202-9423-a8459e3962f8)
 
 ## SARS-CoV-2 workflow for high throughput genome reconstruction and analysis
-[**poreCov - an easy to use, fast, and robust workflow for SARS-CoV-2 genome reconstruction via nanopore sequencing**](https://www.biorxiv.org/content/10.1101/2021.05.07.443089v1)  
+[**poreCov-An Easy to Use, Fast, and Robust Workflow for SARS-CoV-2 Genome Reconstruction via Nanopore Sequencing**](https://www.frontiersin.org/articles/10.3389/fgene.2021.711437/full)  
 Christian Brandt, Sebastian Krautwurst, Riccardo Spott, Mara Lohde, Mateusz Jundzill, Mike Marquet, Martin Hölzer  
-*bioRxiv*
+*Front. Genet., 28 July 2021 | https://doi.org/10.3389/fgene.2021.711437*
 
 ## Molecular epidemiology of SARS-CoV-2
 
