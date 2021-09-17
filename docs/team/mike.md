@@ -21,5 +21,6 @@ A pilot study to estimate the risk of horizontal gene transfer by therapeutic ph
 ## Links
 [:octicons-mail-16: Email](mailto:mike.marquet@med.uni-jena.de)  
 [:octicons-person-16: Researchgate](https://www.researchgate.net/profile/Mike_Marquet)  
+[:octicons-book-16: google scholar](https://scholar.google.com/citations?user=jEV4ddEAAAAJ&hl=en)  
 [:octicons-mark-github-16: github link](https://github.com/mult1fractal)
 
