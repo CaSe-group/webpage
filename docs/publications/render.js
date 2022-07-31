@@ -211,12 +211,12 @@ function extract_bibtex_record(highlight, record) {
         render_me.push("");
     }
     if (record["DOI"]) {
-        render_me.push ({"altmetric": record["DOI"], "dimensions" : record["DOI"]});
+        render_me.push ({"dimensions" : record["DOI"]});
     } else {
         render_me.push("");    
     }
-    if (record["DOI2"]) {
-        render_me.push ({"altmetric": record["DOI2"]});
+    if (record["DOI"]) {
+        render_me.push ({"altmetric": record["DOI"]});
     } else {
         render_me.push("");    
     }
