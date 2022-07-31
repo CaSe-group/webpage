@@ -215,6 +215,11 @@ function extract_bibtex_record(highlight, record) {
     } else {
         render_me.push("");    
     }
+    if (record["DOI"]) {
+        render_me.push ({"altmetric": record["DOI"], "dimensions" : record["DOI"]});
+    } else {
+        render_me.push("");    
+    }
     return render_me;
 }
 
