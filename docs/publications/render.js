@@ -52,7 +52,7 @@ function handle_entry_object(d, container) {
         //<div class='altmetric-embed' data-badge-type='donut' data- doi="10.1038/nature.2012.9872"></div>
         
         if ("altmetric" in d) {
-            containerd3.append("div").classed ("data-badge-popover", "left").attr ("data-badge-type", "donut").attr ("data-doi", d["altmetric"]).attr ("data-hide-no-mentions", "true"); 
+            containerd3.append("div").classed ("data-badge-popover", "right").attr ("data-badge-type", "donut").attr ("data-doi", d["altmetric"]).attr ("data-hide-no-mentions", "true"); 
         }
         
         // <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
