@@ -11,4 +11,5 @@ The subproject will establish a new, quick transcriptome-based diagnostic platfo
 
 ## Links
 [:octicons-mail-16: Email](mailto:mateusz.jundzill@med.uni-jena.de)  
+[:octicons-book-16: google scholar](https://scholar.google.com/citations?user=i9X8KUkAAAAJ&hl=en)     
 [:octicons-mark-github-16: github link](https://github.com/AggresiveHayBale)

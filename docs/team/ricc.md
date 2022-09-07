@@ -8,5 +8,8 @@ Ricc(ardo) Spott is a phD student at the *Institute for Infectious Diseases and 
 [preplex](https://www.infectognostics.de/projekte/laufende-projekte/details/news/preplex-phaenotypische-resistenz-durch-porin-verlust-und-efflux-ueberexpression-bei-gramnegativen-ba.html): Phenotypic resistance due to porin loss and efflux overexpression in gram-negative bacteria  
 
 ## Links
-[:octicons-mail-16: Email](mailto:ricc.spott@med.uni-jena.de)  
-[:octicons-mark-github-16: github link](https://github.com/dataspott)
+[:octicons-mail-16: Email](mailto:ricc.spott@med.uni-jena.de)   
+[:octicons-book-16: google scholar](https://scholar.google.com/citations?user=i9X8KUkAAAAJ&hl=en)   
+[:octicons-mark-github-16: github link](https://github.com/dataspott)   
+
+
