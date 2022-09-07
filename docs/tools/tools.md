@@ -21,3 +21,16 @@ This is a **pipeline collection** containing various tools in an easy install fr
 You dont need to install any tools with the exeption of docker and nextflow.
 
 [:octicons-mark-github-16: github](https://github.com/replikation/docker_pipelines)
+_____
+## py_grep
+
+Search-tool for excel-, csv- and tsv-files to easily filter them for one or multiple search-terms as well as (non-)empty cells.
+
+[:octicons-mark-github-16: github](https://github.com/DataSpott/py_grep)
+_____
+## NCBI_pathogen_prospector
+
+Tool for the automated download and subsequent ABRicate-analysis of fasta-files from *NCBI Assembly* using a list of Assembly accession-nrs.
+Includes also the option to download MIC-data from *NCBI Biosample* given a list of Biosample accession-nrs.
+
+[:octicons-mark-github-16: github](https://github.com/DataSpott/NCBI_pathogen_prospector)
