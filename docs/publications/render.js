@@ -51,17 +51,20 @@ function handle_entry_object(d, container) {
         
         //<div class='altmetric-embed' data-badge-type='donut' data- doi="10.1038/nature.2012.9872"></div>
         
-        if ("altmetric" in d) {
-            containerd3.append("div").classed ("data-badge-popover", "left").attr ("data-badge-type", "1").attr ("data-doi", d["altmetric"]).attr ("data-hide-no-mentions", "true"); 
-        }
+
         
         // <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         
         if ("dimensions" in d) {
-             containerd3.append("span").classed ("__dimensions_badge_embed__", true).attr ("data-doi", d["dimensions"]).attr ("data-style","large_rectangle");
-             containerd3.append("script").attr ("async","false").attr("src","https://badge.dimensions.ai/badge.js");       
-        }
-        
+            containerd3.append("span").classed ("__dimensions_badge_embed__", true).attr ("data-doi", d["dimensions"]).attr ("data-style","large_rectangle");
+            containerd3.append("script").attr ("async","false").attr("src","https://badge.dimensions.ai/badge.js");       
+       }
+
+       if ("altmetric" in d) {
+        containerd3.append("div").classed ("altmetric-embed no-print", true).attr ("data-badge-type", "1").attr ("data-doi", d["altmetric"]).attr ("data-hide-no-mentions", "true").attr("data-badge-popover", "left");
+    }
+
+
     } else {
         containerd3.text(d || "");
     }
@@ -211,7 +214,7 @@ function extract_bibtex_record(highlight, record) {
         render_me.push("");
     }
     if (record["DOI"]) {
-        render_me.push ({"altmetric": record["DOI"], "dimensions" : record["DOI"]});
+        render_me.push ({"dimensions": record["DOI"], "altmetric" : record["DOI"]});
     } else {
         render_me.push("");    
     }
