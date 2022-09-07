@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/mult1fractal.svg?style=social)](https://twitter.com/maralohde) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/maralohde.svg?style=social)](https://twitter.com/maralohde) 
 
 ## Info
 
