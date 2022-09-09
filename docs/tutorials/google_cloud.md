@@ -1,14 +1,17 @@
+# gsutils rsync
+
 ## Setting up rsync gsutils file transfer
 
 * install a faster md5-check sum to increase overall upload via:
 
-    ```bash
-    sudo apt-get install gcc python-dev python-setuptools python-pip
-    sudo pip uninstall crcmod
-    sudo pip install --no-cache-dir -U crcmod
-    # this should be true now
-    sudo pip install --no-cache-dir -U crcmod | grep "compiled crcmod:"
-    ```
+
+```bash
+sudo apt-get install gcc python-dev python-setuptools python-pip
+sudo pip uninstall crcmod
+sudo pip install --no-cache-dir -U crcmod
+# this should be true now
+sudo pip install --no-cache-dir -U crcmod | grep "compiled crcmod:"
+```
 
 ## rsync to google drive
 
