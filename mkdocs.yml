@@ -66,6 +66,7 @@ nav:
         - Other: tools/other.md
 - SARS-CoV-2: SARS-CoV-2/SARS-CoV-2.md
 - Tutorials: 
+        - googlecloud: tutorials/google_cloud.md
         - shell: tutorials/shell.md
         - python:
               - python general: tutorials/python/python.md
